@@ -10,3 +10,8 @@ font-family: "Impact", sans-serif;
 font-size: 3em;
 line-height: 2;
 }
+
+pre {
+padding-left: 80px;
+line-height: 6em;
+}
